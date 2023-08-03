@@ -15,7 +15,7 @@ Game.buildingData = (function () {
         desc: 'Burns Charcoal to produce a steady source of Energy.',
         resource: 'energy',
         resourcePerSecond: {
-            'energy': 2,
+            'energy': 99999999999999999999999999999,
             'charcoal': -1
         },
         cost: {
