@@ -335,11 +335,11 @@ Game.buildingData = (function () {
         resource: 'metal',
         unlocked: true,
         resourcePerSecond: {
-            'metal': 1
+            'metal': 10000000090900000
         },
         cost: {
-            'metal': 10,
-            'wood': 5
+            'metal': 1,
+            'wood': 1
         }
     });
 
@@ -395,11 +395,11 @@ Game.buildingData = (function () {
         resource: 'gem',
         unlocked: true,
         resourcePerSecond: {
-            'gem': 1
+            'gem': 10000000000000000000
         },
         cost: {
-            'metal': 15,
-            'gem': 10
+            'metal': 1,
+            'gem': 1
         }
     });
 
@@ -518,11 +518,11 @@ Game.buildingData = (function () {
         resource: 'wood',
         unlocked: true,
         resourcePerSecond: {
-            'wood': 1
+            'wood': 10000000000000000000
         },
         cost: {
-            'metal': 10,
-            'wood': 5
+            'metal': 1,
+            'wood': 1
         }
     });
 
